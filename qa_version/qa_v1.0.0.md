@@ -46,7 +46,12 @@
 
 - BeLifeのLifeタブ上から作成が可能です。
 - 現在、Metamaskの拡張機能がインストールされているPCブラウザからのみ行える作業になっています。
-- Polygon(BlockChain)を利用して、OpenSeaに公開ができます。
+- Polygon(BlockChain)を利用して、OpenSeaにNFTを登録することができます。
+- Polygon(BlockChain)の環境は2種類あり、本番とテスト環境になります。それぞれの環境にあわせたOpenSeaの環境にNFTを登録することができます。
+  - BeLifeから登録したいPolygonの環境を選択し、Metamaskの接続設定もそれに合わせることによってNFTを登録することができます。BeLife上の登録先とMetamaskの接続設定が異なるとBeLife上でエラー画面が表示されます。
+- OpenSeaの環境については下記のリンクで確認ができます。
+  - 本番環境 : https://opensea.io/
+  - テスト環境 : https://testnets.opensea.io/
 - :v:
 ***
 
